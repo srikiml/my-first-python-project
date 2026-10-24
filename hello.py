@@ -1,4 +1,4 @@
-print("Match and Point!!!")
+print("Match and Point!!! - Simple python program demo")
 while True:
     animal = input("Enter an animal: ")
     if(animal=="exit"):
